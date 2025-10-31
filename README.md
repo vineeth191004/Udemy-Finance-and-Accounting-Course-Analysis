@@ -61,15 +61,6 @@ This project analyzes data from Udemy’s Finance & Accounting courses to uncove
 
 ---
 
-### 🧩 **Future Improvements**
-
-* Add NLP features (keywords in course titles)
-* Try **XGBoost** or **LightGBM** models
-* Tune hyperparameters for improved accuracy
-* Include course duration and language data
-
----
-
 ### 📂 **Output Files**
 
 * `Cleaned_Finance_Udemy.csv` — cleaned dataset after preprocessing
