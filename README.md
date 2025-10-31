@@ -1,4 +1,4 @@
-## Finance & Accounting Courses Analysis on Udemy**
+## Finance & Accounting Courses Analysis on Udemy
 
 ---
 
